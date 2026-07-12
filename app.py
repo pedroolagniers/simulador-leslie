@@ -3,12 +3,12 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(
-    page_title="Simulador para mi Esposita",
-    page_icon="❤️",
+    page_title="Simulador ACAMS",
+    page_icon="🎯",
     layout="centered",
 )
 
-st.title("Simulador para mi Esposita❤️")
+st.title("Simulador ACAMS")
 st.caption("Simulación de preguntas de prevención de lavado de activos")
 
 @st.cache_data
